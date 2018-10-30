@@ -1,0 +1,160 @@
+{
+    "languages": {
+        "default": "Español",
+        "en": "Ingles",
+        "es": "Español"
+    },
+    "help": {
+        "menu": {
+            "help": "Ayuda"
+        },
+        "modal": {
+
+        },
+        "notify": {
+
+        }
+    },
+    "net": {
+        "menu": {
+            "disconnected": "Desconectado",
+            "main": "Red Principal"
+        },
+        "modal": {
+            "connected": "Conectado a",
+            "noConnected": "Not connected to",
+            "noAccLocal": "No dispone de cuenta local (Las cuentas METAMASK solo funcionan conectados a esta red.), necesita importar o crear una cuenta para poder usar esta red.",
+            "noLoginMetaMask": "Está utilizando MetaMask pero no ha iniciado sesión. Inicie sesión en MetaMask y actualice.",
+            "errMetaMask": "Metamask no esta disponible."
+        },
+        "notify": {
+
+        }
+    },
+    "smartCont": {
+        "menu": {
+            "sc": "Contrato inteligente",
+            "ethCont": "Contrato Etherscan",
+            "sc_Overview": "Resumen contrato inteligente",
+            "current": "Actual"
+        },
+        "modal": {
+
+        },
+        "notify": {
+
+        }
+    },
+    "account": {
+        "menu": {
+            "select": "Seleccione una cuenta",
+            "new": "Nueva cuenta",
+            "import": "Importar la cuenta",
+            "export": "Export account"
+        },
+        "modal": {
+            "new": {
+                "title": "Nueva cuenta",
+                "addr": "You just created an Ethereum account: ",
+                "pk": "Please BACKUP the private key for this account: "
+            },
+            "import": {
+                "title": "Importar cuenta",
+                "addr": "Llave",
+                "pk": "Llave privada",
+                "addrHelp": "Llave publica de la cuenta.",
+                "pkHelp": "Llave privada de la cuenta",
+                "btnImport": "Importar",
+                "error": {
+                    "invalid": "Clave no valida"
+                }
+            },
+            "delete": {
+                "title": "Borrar la cuenta",
+                "content": "Está ud seguro que desea borrar la cuenta:",
+                "btn": "BORRAR CUENTA"
+            },
+            "export": {
+                "title": "Exportar cuenta",
+                "addr": "Clave:",
+                "pk": "Clave privada:",
+                "noPk": "Esta cuenta nunca guardo una clave privada"
+            }
+        },
+        "notify": {
+            "delete": "Cuenta borrada con exito"
+        }
+    },
+    "token": {
+        "menu": {
+
+        },
+        "modal": {
+            "title": "Token"
+        },
+        "notify": {
+
+        }
+    },
+    "ledger": {
+        "menu": {
+            "ledger": "Ledfer Nano S"
+        },
+        "modal": {
+
+        },
+        "notify": {
+
+        }
+    },
+    "gas": {
+        "menu": {
+            "gas": "Precio gas"
+        },
+        "modal": {
+            "title": "Gas Price",
+            "message": "Precio del gas (gwei)"
+        },
+        "notify": {
+
+        }
+    },
+    "tokens": {
+        "0ED": {
+            "desc": "Ethereum Diamond was built to help increase the adoption of cryptocurrency among successful people.",
+            "descShort": "ethereumdiamond",
+            "url": "http://www.ethereumdiamond.io/"
+        },
+        "10MT": {
+            "desc": "ONLY 10,000,000 TOKEN WILL BE ISSUED, 99% OF THEM WILL BE AIRDROPPED",
+            "descShort": "10mtoken",
+            "url": "https://www.10mtoken.com"
+        },
+        "10MTI": {
+            "desc": "10MT team presents you 10MTI - an investment token",
+            "descShort": "10mtoken",
+            "url": "https://www.10mtoken.com"
+        },
+        "1BIT": {
+            "desc": "The Bithereum is designed to provide stability and growth to the Ethereum community.",
+            "descShort": "bithereum",
+            "url": "https://bithereum.tech/"
+        },
+        "1KT": {
+            "desc": "1KT is token based ERC20 using proof-of-stake system with smaller supply.",
+            "descShort": "1ktoken",
+            "url": "https://1ktoken.tech/"
+        },
+        "1LIFE": {
+            "desc": "LIFE Token is a utility token issued for discounted usage on Pinkexc platform. Funds raised during the token swap will be used to build a network of Crypto ATM and merchants in providing an instant liquidity from assets for the public.",
+            "descShort": "LIFE",
+            "url": "http://www.pinkexc.com/life.html"
+        }
+    },
+    "modal": {
+        "titleAlert": "Atención",
+        "set": "Establecer",
+        "ok": "De acuerdo",
+        "close": "Cerrar"
+    }
+}
